@@ -32,7 +32,7 @@
   ```
 - **Chuỗi Public Key thu được:**
   ```text
-  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICBqoiuYqIXmPY9TfDpooh2E1uYEOdz3rlW13pSdA48N phanthuanthanh270606@gmail.com
+  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICBqoiuYqIXmPY9TfDpooh2E1uYEOdz3rlW13pSdA48N binhtrieuhn99@gmail.com
   ```
 - **Thao tác cấu hình trên giao diện GitHub:**
   1. Đăng nhập vào tài khoản cá nhân trên [GitHub](https://github.com).
